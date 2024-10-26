@@ -8,11 +8,14 @@
 
   <h3 align="center">Hi 👋, I'm Nguyen Huu Thanh</h3>
   <h3 align="center">Welcome to my profile!</h3>
+  
 </div>
 
 ---
 
-- 📫 **Contact me via email:** [bombi19m6@gmail.com](mailto:bombi19m6@gmail.com)
+- 🌱 *Currently learning and developing as a Game Server Developer.*
+
+- 📫 *Contact me via email:* [bombi19m6@gmail.com](mailto:bombi19m6@gmail.com)
 
 <div align="center" style="margin-top: 10px;">
   <a href="https://www.facebook.com/arriety.beo">
