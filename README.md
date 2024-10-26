@@ -8,8 +8,11 @@
 - 📫 Contact me via email: bombi19m6@gmail.com
 
 
+<div align="center">
+
 [![](https://visitcount.itsvg.in/api?id=arrietybeo&label=Profile%20Views&color=1&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
+</div>
 
 <!---
 arrietybeo/arrietybeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
