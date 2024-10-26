@@ -2,7 +2,7 @@
   <img 
     align="right" 
     width="400" 
-    src="https://github.com/arrietybeo/arrietybeo/blob/main/img.png" 
+    src="/img.png" 
     style="position: absolute; top: 0; right: 0; z-index: 1;"
   >
 
