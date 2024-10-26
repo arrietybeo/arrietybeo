@@ -14,8 +14,14 @@
 
 - 📫 **Contact me via email:** [bombi19m6@gmail.com](mailto:bombi19m6@gmail.com)
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/arriety.beo)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/arrietybeo)
+<div align="center" style="margin-top: 10px;">
+  <a href="https://www.facebook.com/arriety.beo">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.instagram.com/arrietybeo" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
 
 ---
 
